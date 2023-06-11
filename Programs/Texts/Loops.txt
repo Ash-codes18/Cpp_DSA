@@ -1,0 +1,3 @@
+Entry controlled loop : For and While are Entry controlled loops
+
+Exit controlled loop : Do While is an Exit controlled loop
