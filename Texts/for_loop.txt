@@ -1,0 +1,5 @@
+In a for loop we can remove all the conditions 
+ 
+A for loop can run with only semicolons and no conditions
+
+we can put multiple conditions in a for loop
