@@ -1,0 +1,14 @@
+1. Same order : Ex = 1,2,3 to 123
+
+Formula -:
+
+upon initializing  variables ans to 0
+
+ans= ans*10 + digit
+
+
+2. Reverse order : Ex = 1,2,3 to 321
+
+Formula -:
+
+ans = digit*10^i + ans
