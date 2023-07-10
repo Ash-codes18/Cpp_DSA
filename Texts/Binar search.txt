@@ -1,0 +1,5 @@
+To prevent overflow i.e in case the index value of start and end upon adding up results in more than INT_MAX, rather than using the formula :
+MID = (START + END)/2
+
+we use the formula :
+MID = START + (END - START)/2
