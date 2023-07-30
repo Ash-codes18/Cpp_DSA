@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-sqrt(int x){
+int sqrt(int x){
     int s=0,e=x;
         long long int mid=(s+e)/2;
         while(s<=e){
