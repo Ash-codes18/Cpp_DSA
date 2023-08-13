@@ -5,27 +5,36 @@ void input(int arr[],int n){
 
     cout<<"Enter the elements of the array : "<<endl;
     for(int i=0;i<n;i++){
-        cin>>arr[i];
+        cin>>arr[i]; 
     }
 
 }
 
 void sort(int arr[],int n){
-    
-        for(int i=0;i<n-1;i++){
-            for(int j=0;j<n-i-1;j++){
-                if(arr[j+1]<arr[j]){
-                    int temp=arr[j+1];
-                    arr[j+1]=arr[j];
-                    arr[j]=temp;
-                }
+    int i=1;
+    while(i<n){
+        int temp=arr[i];
+        int j=i-1;
+        while(j>=0){
+            if(arr[j]>temp){
+                //shift 
+                arr[j+1]=arr[j];
             }
+            else{
+                break;
+                // get out
+            }
+            j--;
         }
+         arr[j + 1] = temp;
+        i++;
+    }
+      
         
 }
 
 void output(int arr[],int n){
-
+    
     cout<<"The sorted array is : ";
     for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
