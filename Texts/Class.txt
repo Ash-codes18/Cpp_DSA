@@ -1,0 +1,2 @@
+An empty class has 1 byte of memory
+A class can be defined somewhere else than the code too
