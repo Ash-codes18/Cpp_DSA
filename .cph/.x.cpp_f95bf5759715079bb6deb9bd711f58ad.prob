@@ -1,0 +1,1 @@
+{"name":"Local: x","url":"c:\\Users\\Ashmit\\Desktop\\Cpp_DSA\\x.cpp","tests":[{"id":1693750903506,"input":"3\n24 8 9\n4\n24 9 10 15","output":"24 9"},{"id":1693750993398,"input":"4\n101 122 157 110\n3\n157 122 97","output":"157"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ashmit\\Desktop\\Cpp_DSA\\x.cpp","group":"local","local":true}
