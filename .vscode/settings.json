@@ -6,6 +6,7 @@
         "deque": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "locale": "cpp"
     }
 }
