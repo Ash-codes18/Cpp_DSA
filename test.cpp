@@ -5,37 +5,34 @@
 using namespace std;
 
 // Insert function here
- vector<int> plusOne(vector<int>& digits) {
+ int missingNumber(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
 
-        int n=digits.size();
-        int carry=1;
+        int n=nums.size();
 
-        for(int i=n-1;i>=0;i--){
-
-            if(i==0 && digits[i]==9){
-                digits.insert(digits.begin(),1);
-                digits[i+1]=0;
+        for(int i=0;i<n-1;i++){
+            if((nums[i+1]-nums[i])!=1){
+                return (nums[i]+1);
             }
-
-                else if(digits[i]==9){
-                     digits[i]=0;
-                }
-                else{
-                     digits[i]+=1;
-                     break;
-                }
         }
-        return digits;
+        
+        if(nums[0]==1){
+            return 0;
+        }
+
+        return nums[n-1]+1;
     }
+
+
 
 int main()
 {
-    vector<int> v{9};
-    plusOne(v);
+    vector<int> v{9,6,4,2,3,5,7,0,1};
+    cout<<missingNumber(v);
 
-    for(int i:v){
-        cout<<i<<" ";
-    }
+    // for(int i:v){
+    //     cout<<i<<" ";
+    // }
 
 
     return 0;
