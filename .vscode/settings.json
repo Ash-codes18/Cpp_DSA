@@ -7,6 +7,9 @@
         "string": "cpp",
         "vector": "cpp",
         "xstring": "cpp",
-        "locale": "cpp"
+        "locale": "cpp",
+        "cstring": "cpp",
+        "format": "cpp",
+        "list": "cpp"
     }
 }
