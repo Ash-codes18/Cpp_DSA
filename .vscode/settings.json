@@ -10,6 +10,7 @@
         "locale": "cpp",
         "cstring": "cpp",
         "format": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "column-wise_sum": "cpp"
     }
 }
