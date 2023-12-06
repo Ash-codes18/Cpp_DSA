@@ -11,6 +11,9 @@
         "cstring": "cpp",
         "format": "cpp",
         "list": "cpp",
-        "column-wise_sum": "cpp"
+        "column-wise_sum": "cpp",
+        "queue": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp"
     }
 }

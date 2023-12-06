@@ -10,28 +10,6 @@ void input(int arr[],int n){
 
 }
 
-void sort(int arr[],int n){
-    int i=1;
-    while(i<n){
-        int temp=arr[i];
-        int j=i-1;
-        while(j>=0){
-            if(arr[j]>temp){
-                //shift 
-                arr[j+1]=arr[j];
-            }
-            else{
-                break;
-                // get out
-            }
-            j--;
-        }
-         arr[j + 1] = temp;
-        i++;
-    }
-      
-        
-}
 
 void output(int arr[],int n){
     
@@ -41,6 +19,37 @@ void output(int arr[],int n){
     }
 
 }
+
+
+
+void sort(int arr[],int n){
+
+ 
+    for(int i=1;i<n;i++){
+
+        int j=i-1;
+        int temp=arr[i];
+
+        while(j>=0){
+
+            if(arr[j]>temp){
+                arr[j+1]=arr[j];
+            }
+            else{
+                break;
+            }
+j--;
+        }
+
+arr[j+1]=temp;
+    }
+
+
+   }
+
+
+
+
 
 
 int main(){
