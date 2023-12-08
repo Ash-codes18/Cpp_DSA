@@ -8,28 +8,23 @@ class Solution{
 public:
 	int rowWithMax1s(vector<vector<int> > arr, int n, int m) {
 	    // code here
-	    int count=INT_MIN;
+	    int count=0;
 	    int row=-1;
-	    int temp=0;
-
-        
         int rind=0;
         int cind=m-1;
         
 
-        for(int i=0;i<n;i++){
-          while(arr[rind][cind]!=0){
-              temp++;
-              cind--;
-          }
-          
-          if(temp>count && temp!=0){
-              count=temp;
-              row=rind;
-          }
-          rind++;
-          cind=m-1;
-          temp=0;
+        while(rind<n && cind>=0){
+            
+            if(arr[rind][cind]==1){
+                row=rind;
+                cind--;
+                count++;
+            }
+            else{
+                rind++;
+            }
+            
             
         }
         
