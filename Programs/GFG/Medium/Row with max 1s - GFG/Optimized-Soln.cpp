@@ -1,3 +1,6 @@
+//In it we are using the two pointer approach and the logic is to find the earliest column with 1 present in it  and since the array is sorted the  row tih the earliest column present in it will be the one with the max no of 1's
+
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
