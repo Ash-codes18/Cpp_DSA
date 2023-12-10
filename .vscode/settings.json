@@ -14,6 +14,7 @@
         "column-wise_sum": "cpp",
         "queue": "cpp",
         "algorithm": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xutility": "cpp"
     }
 }
