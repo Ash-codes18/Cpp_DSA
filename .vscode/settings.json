@@ -15,6 +15,7 @@
         "queue": "cpp",
         "algorithm": "cpp",
         "utility": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "cmath": "cpp"
     }
 }

@@ -1,4 +1,6 @@
 // algo so find the number of primes nos. till n in O(N*log(log(n)))
+//Incomplete
+
 
 #include <iostream>
 #include <vector>
