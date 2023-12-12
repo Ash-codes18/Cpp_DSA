@@ -1,0 +1,23 @@
+The element of an array can be printed in this manner too :
+instead of:
+->arr[i]
+            we
+            can 
+            use
+->i[arr]
+
+Both are correct
+
+this is because of how it works internally
+
+internally the elements are accessed by the use of pointers
+
+and
+
+they work in this manner :
+
+if we want to access the i th element of the array, i.e arr[i] it is done like -> *(arr+i)
+
+so, when we write i[arr]
+internally it becomes -> *(i+arr)
+which is same as -> *(arr+i)

@@ -1,0 +1,1 @@
+In computer science, a symbol table is a data structure used by a language translator such as a compiler or interpreter, where each identifier, constant, procedure and function in a program's source code is associated with information relating to its declaration or appearance in the source
