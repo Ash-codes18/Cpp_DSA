@@ -1,0 +1,10 @@
+For adding something at the end of the string there are 2 methods : 
+
+1. using +=
+2. using push_back
+
+push_back has less time complexity i.e O(1).
+
++= has varying time complexity i.e O(s.size())
+
+so we should always use push_back since it has less time complexity
