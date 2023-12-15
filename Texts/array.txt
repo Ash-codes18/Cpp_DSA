@@ -21,3 +21,5 @@ if we want to access the i th element of the array, i.e arr[i] it is done like -
 so, when we write i[arr]
 internally it becomes -> *(i+arr)
 which is same as -> *(arr+i)
+
+don't try to add array= array+1 to increment address. However, we can use pointer= pointer + 1 to increment address 
