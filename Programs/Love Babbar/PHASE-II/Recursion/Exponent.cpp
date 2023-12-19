@@ -7,7 +7,6 @@ inline int getpower(int n, int expo){
         return 1;
     }
 
-
     return n * getpower(n,expo-1);
 }
 
