@@ -1,3 +1,6 @@
+//Approach-1 : Bruteforce -> O(n^2)
+
+/*
 class Solution {
 public:
 
@@ -37,6 +40,42 @@ int countones(string s, int start, int end){
         }
 
         return maxscore;
+
+    }
+};
+
+*/
+
+// Approach-2 : Intuitive Approach -> O(n)  {Through Hints}
+
+class Solution {
+public:
+
+    int maxScore(string s) {
+        int n=s.length();
+        int ones=0;
+        int zeros=0;
+        int score=0;
+
+        for(int i=0;i<n;i++){
+            if(s[i]=='1'){
+                ones++;
+            }
+        }
+
+        for(int i=0;i<n-1;i++){
+            if(s[i]=='0'){
+                zeros++;
+            }
+            else{
+                ones--;
+            }
+            if(zeros+ones>score){
+                score=zeros+ones;
+            }
+        }
+
+        return score;
 
     }
 };
