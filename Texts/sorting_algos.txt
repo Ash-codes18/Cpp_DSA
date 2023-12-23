@@ -1,0 +1,5 @@
+Selection Sort : select min element and swap with the right position in the array
+Bubble Sort : compare adjacent element and swap if a>b => max element will take its right position
+Insertion Sort : Compare all previous element with the current one
+Quick Sort : choose pivot and use partition 
+Merge Sort : merge two sorted array
