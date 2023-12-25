@@ -3,3 +3,25 @@ Bubble Sort : compare adjacent element and swap if a>b => max element will take 
 Insertion Sort : Compare all previous element with the current one
 Quick Sort : choose pivot and use partition 
 Merge Sort : merge two sorted array
+
+
+
+📌𝐁𝐮𝐛𝐛𝐥𝐞 𝐒𝐨𝐫𝐭: Compares adjacent elements and swaps them if they are in the wrong order, repeating them until no swaps are needed.
+
+📌𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐒𝐨𝐫𝐭: Find the smallest element and place it at the beginning, then repeat the process for the remaining elements.
+
+📌𝐈𝐧𝐬𝐞𝐫𝐭𝐢𝐨𝐧 𝐒𝐨𝐫𝐭: Builds the sorted array one element at a time, inserting each element into its correct position.
+
+📌𝐌𝐞𝐫𝐠𝐞 𝐒𝐨𝐫𝐭: Divides the array into halves, sorts each half, and then merges them into a single sorted array.
+
+📌𝐐𝐮𝐢𝐜𝐤 𝐒𝐨𝐫𝐭: Picks a "pivot" element and partitions the array into two sub-arrays - elements less than the pivot and elements greater than the pivot - then recursively sorts these sub-arrays.
+
+📌𝐇𝐞𝐚𝐩 𝐒𝐨𝐫𝐭: Builds a max-heap data structure and repeatedly extracts the maximum element to create a sorted array.
+
+📌𝐑𝐚𝐝𝐢𝐱 𝐒𝐨𝐫𝐭: Sorts by processing individual digits or characters, typically from the least significant to the most significant.
+
+📌𝐒𝐡𝐞𝐥𝐥 𝐒𝐨𝐫𝐭: A variant of insertion sort that sorts elements at intervals, gradually reducing the interval until the whole array is sorted.
+
+📌𝐂𝐨𝐮𝐧𝐭𝐢𝐧𝐠 𝐒𝐨𝐫𝐭: Counts the number of occurrences of each element and uses this information to place them in the correct order.
+
+📌𝐁𝐮𝐜𝐤𝐞𝐭 𝐒𝐨𝐫𝐭: Divides data into "buckets" and sorts each bucket individually, often using another sorting algorithm like insertion sort.
