@@ -13,13 +13,25 @@ void merge(int arr[], int s, int e  ){
     int *left = new int[ind1];
     int *right = new int[ind2];
 
+    //printing the value of arr
+
+    cout<<"main : ";
+    for(int i=s;i<=e;i++){
+        cout<<arr[i]<<" ";
+    }
+    cout<<endl<<"left : ";
+
     //putting values into the newly created arrays
     for(int i=0;i<ind1;i++){
         left[i]=arr[main++];
+        cout<<left[i]<<" ";
     }
+    cout<<endl<<"right : ";
     for(int i=0;i<ind2;i++){
         right[i]=arr[main++];
+        cout<<right[i]<<" ";
     }
+    cout<<endl;
 
 
     //Merging the arrays
@@ -37,11 +49,6 @@ void merge(int arr[], int s, int e  ){
         }
     }
 
-    while(leftind<ind1){
-        arr[main++]=left[leftind++];
-    }
-    
-
     // Copy the remaining elements of first[], if any
     while(leftind<ind1){
         arr[main++]=left[leftind++];
@@ -51,6 +58,12 @@ void merge(int arr[], int s, int e  ){
     while(rightind<ind2){
         arr[main++]=right[rightind++];
     }
+
+    cout<<"After Merge : ";
+    for(int i=s;i<=e;i++){
+        cout<<arr[i]<<" ";
+    }
+    cout<<endl;
 
 
     delete []left;
@@ -68,6 +81,7 @@ void msort(int arr[], int start, int end){
 
     int mid = (start+end)/2;
 
+
     //sorting left part of the divided array
     msort(arr,start,mid);
 
@@ -76,8 +90,8 @@ void msort(int arr[], int start, int end){
 
 
     //Merging the fragmented arrays after all of them have been sorted 
+    cout<<endl<<endl<<"Calling merge "<<endl<<endl;
     merge(arr,start,end);
-
 }
 
 
@@ -102,6 +116,7 @@ int main(){
 
     msort(arr,0,n-1);
 
+    cout<<endl<<endl;
     cout<<"After Sorting : ";
     for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
