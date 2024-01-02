@@ -40,19 +40,24 @@ return ans;
 class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
-        vector<int> freq(nums.size() + 1);
-        
+      
+        int n=nums.size();
+
         vector<vector<int>> ans;
-        for (int c : nums) {
-            if (freq[c] >= ans.size()) {
+        vector<int> freq(n+1,0);
+
+
+        for(int i=0;i<n;i++){
+            if(ans.size()<=freq[nums[i]]){
                 ans.push_back({});
             }
-            
-            // Store the integer in the list corresponding to its current frequency.
-            ans[freq[c]].push_back(c);
-            freq[c]++;
+
+            ans[freq[nums[i]]].push_back(nums[i]);
+            freq[nums[i]]++;
+
         }
-        
-        return ans;
+
+return ans;
+
     }
 };
