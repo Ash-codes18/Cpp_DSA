@@ -11,7 +11,7 @@ public:
                 count=1;
             }
 
-            else if(s[i]==s[i+1]){
+            else{
                 count++;
             }
             
