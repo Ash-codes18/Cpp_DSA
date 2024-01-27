@@ -1,3 +1,6 @@
+//Approach-1 TC-> O(n), n = length of longest string
+
+/*
 class Solution {
 
 private:
@@ -70,6 +73,58 @@ public:
 
 return count;
 
+
+    }
+};
+*/
+
+
+// Approach-2 
+
+
+class Solution {
+
+private:
+
+    int getmin(int n, int m, int p){
+        if(n<=m && n<=p){
+            return n;
+        }
+        else if(m<=n && m<=p){
+            return m;
+        }
+        else{
+            return p;
+        }
+    }
+
+
+public:
+    int findMinimumOperations(string s1, string s2, string s3) {
+        int n =s1.length();
+        int m =s2.length();
+        int p =s3.length();
+
+        if(s1[0]!=s2[0] || s1[0]!=s3[0]){
+            return -1;
+        }
+
+        int count=0;
+        int min=getmin(n,m,p);
+
+        for(int i=0;i<min;i++){
+            if(s1[i]==s2[i] && s1[i]==s3[i]){
+                count++;
+            }
+            else{
+                break;
+            }
+        }
+
+//Total length of all the strings - No. of equal characters in the strings
+        int ans=s1.length()+s2.length()+s3.length()-(3*count);
+
+return ans;
 
     }
 };
