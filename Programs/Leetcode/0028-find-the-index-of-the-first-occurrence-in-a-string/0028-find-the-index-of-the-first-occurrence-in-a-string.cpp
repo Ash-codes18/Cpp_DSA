@@ -1,3 +1,6 @@
+// Approach-1 -> BruteForce -> O(n^2)
+
+/*
 class Solution {
 public:
     int strStr(string haystack, string needle) {
@@ -23,3 +26,40 @@ public:
         
     }
 };
+*/
+
+// Approach-2 -> Two pointers -> O(n)
+
+
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        
+        int h=haystack.length();
+        int n= needle.length();   
+        int hs=0;
+        int ns=0;
+
+        if(h<n){
+            return -1;
+        }
+
+        while(ns<n && hs<h){
+            if(haystack[hs]==needle[ns]){
+                hs++;
+                ns++;
+
+            }
+            else{
+                hs=hs-ns+1;
+                ns=0;
+            }
+        }
+
+
+return (ns == n)?(hs - ns):-1;
+
+        
+    }
+};
+
