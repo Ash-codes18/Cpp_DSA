@@ -5,7 +5,7 @@ public:
 
         for (int i=1;i<9;i++){
             int num=i;
-            cout<<i<<"th pass: ";
+            // cout<<i<<"th pass: ";
             for(int j=i+1;j<=9;j++){
                 num=(num*10)+j;
                 // cout<<num<<" ";
