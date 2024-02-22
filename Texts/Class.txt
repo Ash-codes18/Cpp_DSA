@@ -1,3 +1,5 @@
+https://github.com/vineethm1627/OOP
+
 An empty class has 1 byte of memory
 
 A class can be defined somewhere else than the code too
@@ -15,4 +17,25 @@ If an element is marked as private it can only be accessed inside the class but 
 In languages like C++, where memory layout has a significant impact on performance due to cache lines and memory access patterns, arranging members to minimize padding can lead to better memory utilization and potentially improved runtime efficiency.
 
 
+4 pillars of OOP :
+    1. Encapsulation
+    2. Inheritance
+    3. Polymorphism
+    4. Abstraction
 
+https://www.codingninjas.com/studio/guided-paths/basics-of-c/content/118817/offering/1382190
+
+Private data member of any class cannot be inherited
+
+Protected data member becomes Private for Private inheritance and remains Protected for Public and Protected inheritance
+
+Public data member gets inherited the way we inherit it
+
+
+5 Types of inheritance :
+
+1. Single
+2. Multi-level
+3. multiple
+4. hybrid
+5. hierarchical
