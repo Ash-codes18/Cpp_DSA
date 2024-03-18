@@ -16,6 +16,8 @@
         "algorithm": "cpp",
         "utility": "cpp",
         "xutility": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "ranges": "cpp",
+        "span": "cpp"
     }
 }

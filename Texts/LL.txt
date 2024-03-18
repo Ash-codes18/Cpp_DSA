@@ -1,0 +1,5 @@
+Types of LL:
+1. Singly
+2. Doubly
+3. Circular
+4. Circular Doubly 
