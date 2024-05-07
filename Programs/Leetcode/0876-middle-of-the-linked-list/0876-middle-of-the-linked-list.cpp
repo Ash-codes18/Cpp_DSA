@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ /*
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
@@ -31,5 +33,32 @@ public:
 
         return head;
         
+    }
+};
+
+*/
+
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+
+        if(head==NULL || head->next == NULL){
+            return head;
+        }
+
+       ListNode* sp = head;
+       ListNode* fp = head->next;
+        
+
+        while(fp!=NULL){
+            fp=fp->next;
+            if(fp!=NULL){
+                fp=fp->next;
+            }
+            sp=sp->next;
+        }
+
+        return sp;
+
     }
 };
