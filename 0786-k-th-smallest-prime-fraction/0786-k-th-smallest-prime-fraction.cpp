@@ -1,3 +1,6 @@
+//BruteForce using map
+
+/*
 class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
@@ -48,6 +51,49 @@ public:
         ans[1]=stoi(x);
 
 
+return ans;
+
+    }
+};
+
+*/
+
+
+// BruteForce without using map
+
+class Solution {
+public:
+    vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
+        int n = arr.size();
+
+        vector<double> d;
+
+        for(int i=0;i<n;i++){
+            for(int j = i+1;j<n;j++){
+                d.push_back((double)arr[i]/arr[j]);
+            }
+        }
+
+        sort(d.begin(),d.end());
+
+        vector<int> ans(2);
+        bool flag = false;
+
+        for(int i=0;i<n;i++){
+            for(int j = i+1;j<n;j++){
+                if((double)arr[i]/arr[j] == d[k-1]){
+                    ans[0]=arr[i];
+                    ans[1]=arr[j];
+                    flag = true;
+                    break;
+                };
+            }
+            if(flag){
+                break;
+            }
+        }
+
+      
 return ans;
 
     }
