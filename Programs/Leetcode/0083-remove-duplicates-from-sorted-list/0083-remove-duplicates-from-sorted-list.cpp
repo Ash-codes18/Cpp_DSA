@@ -8,6 +8,46 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+
+
+// Approach-1 => With Prev pointer
+
+
+// class Solution {
+// public:
+//     ListNode* deleteDuplicates(ListNode* head) {
+
+//         if(head==NULL || head->next==NULL){
+//             return head;
+//         }
+
+//         // ListNode* prev = head;
+//         // ListNode* cur = head->next;
+
+//         // while(cur!=NULL){
+//         //     if(prev->val==cur->val){
+//         //         prev->next=cur->next;
+//         //         cur=cur->next;
+//         //     }
+//         //     else{
+//         //         prev=cur;
+//         //         cur=cur->next;
+//         //     }
+//         // }
+
+    
+// return head;
+
+//     }
+// };
+
+
+
+// Approach-2 => Without Prev pointer
+
+
+
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
@@ -16,17 +56,14 @@ public:
             return head;
         }
 
-        ListNode* prev = head;
-        ListNode* cur = head->next;
+        ListNode* temp = head;
 
-        while(prev->next!=NULL){
-            if(prev->val==cur->val){
-                prev->next=cur->next;
-                cur=cur->next;
+        while(temp->next!=NULL){
+            if(temp->val == temp->next->val){
+                temp->next=temp->next->next;
             }
             else{
-                prev=cur;
-                cur=cur->next;
+                temp=temp->next;
             }
         }
     
