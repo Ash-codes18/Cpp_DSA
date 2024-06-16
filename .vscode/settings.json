@@ -18,6 +18,7 @@
         "xutility": "cpp",
         "cmath": "cpp",
         "ranges": "cpp",
-        "span": "cpp"
+        "span": "cpp",
+        "stack": "cpp"
     }
 }
