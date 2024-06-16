@@ -3,38 +3,30 @@ public:
     int minPatches(vector<int>& nums, int n) {
         int s = nums.size();
         int patch = 0;
-        long long csum=0,sum = 0;
+        long long sum = 0;
     
-
+    
         int i = 0;
 
         while(sum<n){
 
             if(i<s){
-                csum += nums[i];
-
                 if(nums[i]<=sum+1){
-                    sum=csum;
+                    sum += nums[i];
                     i++;
                 }
                 else{
-                    csum-=nums[i];
                     patch++;
-                    csum+=sum+1;
-                    sum=csum;
+                    sum+=sum+1;
                 }
             }
 
-
             else{
                 patch++;
-                csum+=sum+1;
-                sum=csum;
+                sum+=sum+1;
             }
 
         }
-
-
 
 
 return patch;
