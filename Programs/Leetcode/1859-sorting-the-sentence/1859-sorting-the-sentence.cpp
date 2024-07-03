@@ -2,51 +2,36 @@ class Solution {
 public:
     string sortSentence(string s) {
         int n=s.length();
-        int count=1;
+        
+        string temp,ans="";
+        vector<string> arr(9);
 
         for(int i=0;i<n;i++){
             if(s[i]==' '){
-                count++;
-            }
-        }
-
-        if(count==1){
-            s.pop_back();
-            return s;
-        }
-
-        vector<string> pos(count,"");
-        string temp;
-
-        for(int i=0;i<n;i++){
-            if(s[i]==' '){
+                int ind = temp[temp.length()-1]-'0';
                 temp.pop_back();
-                temp.push_back(' ');
-                pos[s[i-1]-'0'-1]=temp;
-                temp.clear();
+                arr[ind-1] = temp;
+                temp="";
+            }
+            else if(i==n-1){
+                int ind = s[i]-'0';
+                arr[ind-1] = temp;
             }
             else{
                 temp.push_back(s[i]);
             }
         }
 
-        if (!temp.empty()) {
-            int val=temp[temp.length()-1]-'0';
-            temp.pop_back();
-            temp.push_back(' ');
-            pos[val-1]=temp;
-        }
-        
-
-        string ans;
-        for(string i:pos){
-            if (!i.empty()) {
-                ans += i;
+        for(string i : arr){
+            if(!i.empty()){
+                ans+=i;
+                ans+=" ";
             }
         }
 
-    ans.pop_back();
-    return ans;
+        ans.pop_back();
+        return ans;
 
     }
 };
+
