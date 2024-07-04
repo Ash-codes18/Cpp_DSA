@@ -8,49 +8,63 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// Approach - 1 -> Without Using dummy node 
+
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
         
-        ListNode* fz = NULL, *sz  = NULL, *temp = head;
-
-        while(temp!=NULL){
-            if(temp->val==0){
-                if(!fz){
-                    fz=temp;
-                }
-                else{
-                    ListNode* bg = fz;
-                    int sum = 0;
-                    while(fz!=temp){
-                        fz=fz->next;
-                        sum+=fz->val;
-                    }
-                    bg->next->val = sum;
-                    bg->next->next = temp;
-                    fz=temp;
-                }
-            }
-            temp=temp->next;
-        }
-
         head=head->next;
-        temp = head;
-        ListNode *prev = NULL;
+        ListNode *start = head, *temp = head;
+        int sum = 0;
 
-        while(temp!=NULL){
-            if(temp->val==0){
-                prev->next = temp->next;
+        while(temp){
+            if(temp->val!=0){
+                sum+=temp->val;
             }
             else{
-                prev = temp;
+                start->val = sum;
+                start->next = temp->next;
+                start = temp->next;
+                sum = 0;
             }
             temp=temp->next;
         }
-        
 
+        ios::sync_with_stdio(0);
+        cin.tie(0);
 
         return head;
 
     }
 };
+
+
+// Approach-2 -> Using Dummmy Node
+
+// class Solution {
+// public:
+//     ListNode* mergeNodes(ListNode* head) {
+        
+//         ListNode *ans = new ListNode();
+//         ListNode *temp = head->next, *res = ans;
+//         int sum = 0;
+
+//         while(temp){
+//             if(temp->val!=0){
+//                 sum+=temp->val;
+//             }
+//             else{
+//                 ListNode *dummy = new ListNode(sum);
+//                 res->next=dummy;
+//                 res=res->next;
+//                 sum=0;
+//             }
+//             temp=temp->next;
+//         }
+
+//         return ans->next;
+
+//     }
+// };
