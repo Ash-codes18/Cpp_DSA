@@ -28,4 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0860-design-circular-queue) |
+| [2751-sliding-subarray-beauty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2751-sliding-subarray-beauty) |
+## Hash Table
+|  |
+| ------- |
+| [2751-sliding-subarray-beauty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2751-sliding-subarray-beauty) |
+## Sliding Window
+|  |
+| ------- |
+| [2751-sliding-subarray-beauty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2751-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
