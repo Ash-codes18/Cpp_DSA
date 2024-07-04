@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
 | [0860-design-circular-queue](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0860-design-circular-queue) |
 | [2751-sliding-subarray-beauty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2751-sliding-subarray-beauty) |
 ## Hash Table
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
