@@ -6,7 +6,12 @@ private:
     vector<int> arr;
 
 public:
-    MyCircularQueue(int k) : arr(k), n(k), f(-1), b(-1) {}
+    MyCircularQueue(int k){
+        f=-1;
+        b=-1;
+        n=k;
+        arr=vector<int>(k);
+    }
     
     bool enQueue(int value){
         if(isFull()){
