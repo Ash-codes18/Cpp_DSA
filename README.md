@@ -37,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-sliding-subarray-beauty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2751-sliding-subarray-beauty) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
