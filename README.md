@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
