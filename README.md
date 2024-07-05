@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0860-design-circular-queue) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
