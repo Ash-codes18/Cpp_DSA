@@ -28,15 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0412-fizz-buzz) |
 | [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0412-fizz-buzz) |
 | [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
