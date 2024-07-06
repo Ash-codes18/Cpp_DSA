@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-linked-list-components](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0859-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
+| [0835-linked-list-components](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0859-design-circular-deque) |
 ## Design
 |  |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0859-design-circular-deque) |
+## Hash Table
+|  |
+| ------- |
+| [0835-linked-list-components](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0835-linked-list-components) |
 <!---LeetCode Topics End-->
