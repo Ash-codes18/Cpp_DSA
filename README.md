@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0383-ransom-note) |
 | [0835-linked-list-components](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0835-linked-list-components) |
 ## Math
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
