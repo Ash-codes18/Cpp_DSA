@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-linked-list-components](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0835-linked-list-components) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
