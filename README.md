@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0412-fizz-buzz) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
