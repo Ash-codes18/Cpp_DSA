@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0134-gas-station) |
 | [0835-linked-list-components](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0859-design-circular-deque) |
 | [1791-richest-customer-wealth](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1791-richest-customer-wealth) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
