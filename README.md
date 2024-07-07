@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
+| [3336-water-bottles-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3336-water-bottles-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0412-fizz-buzz) |
 | [2645-pass-the-pillow](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2645-pass-the-pillow) |
+| [3336-water-bottles-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
