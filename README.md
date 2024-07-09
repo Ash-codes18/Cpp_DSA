@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
