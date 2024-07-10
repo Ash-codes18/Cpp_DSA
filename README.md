@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0904-leaf-similar-trees) |
 ## Array
 |  |
