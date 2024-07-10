@@ -27,8 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0238-product-of-array-except-self) |
+| [1720-crawler-log-folder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1720-crawler-log-folder) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
