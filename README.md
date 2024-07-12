@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1030-smallest-string-starting-from-leaf) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
