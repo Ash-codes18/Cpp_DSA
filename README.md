@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0112-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
