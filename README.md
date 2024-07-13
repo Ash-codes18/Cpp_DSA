@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
