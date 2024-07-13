@@ -1,0 +1,13 @@
+Full BT = all nodes have either 0 children or 2 children.
+
+Complete BT = all levels are completely filled except possibly for the last level, which is filled from left to right.
+
+Perfect BT = all levels are completely filled.
+
+Balanced BT = the height of the tree is O(log n) where n is the number of nodes.    
+
+Degenerate BT = each parent node has only one associated child node.
+
+
+DFS = Postorder, Inorder, Preorder
+BFS = Level order
