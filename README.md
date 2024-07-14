@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
+## String
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
