@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2384-root-equals-sum-of-children](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2384-root-equals-sum-of-children](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Hash Table
 |  |
 | ------- |
