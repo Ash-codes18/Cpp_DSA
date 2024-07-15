@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
