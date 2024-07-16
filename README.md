@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0394-decode-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -71,6 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
