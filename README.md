@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
