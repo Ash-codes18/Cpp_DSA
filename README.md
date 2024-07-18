@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0437-path-sum-iii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
