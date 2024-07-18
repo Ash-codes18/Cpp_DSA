@@ -101,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Math
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
