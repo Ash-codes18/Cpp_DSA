@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
