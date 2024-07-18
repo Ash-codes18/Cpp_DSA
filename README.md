@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
