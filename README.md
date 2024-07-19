@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -135,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
