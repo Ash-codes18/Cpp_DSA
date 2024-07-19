@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0222-count-complete-tree-nodes) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
