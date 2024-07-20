@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
