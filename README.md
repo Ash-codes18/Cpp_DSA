@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0031-next-permutation) |
 | [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
