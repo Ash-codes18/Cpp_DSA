@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
