@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
