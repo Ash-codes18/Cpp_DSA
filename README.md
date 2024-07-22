@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Recursion
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2032-largest-odd-number-in-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
