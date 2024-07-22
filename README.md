@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0031-next-permutation) |
+| [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
 | [2481-strictly-palindromic-number](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
