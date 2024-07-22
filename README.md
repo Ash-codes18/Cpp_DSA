@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0014-longest-common-prefix) |
 | [0394-decode-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Recursion
 |  |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
