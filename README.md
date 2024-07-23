@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Recursion
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
