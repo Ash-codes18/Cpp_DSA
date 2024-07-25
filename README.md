@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2846-robot-collisions) |
 ## Backtracking
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2470-removing-stars-from-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
