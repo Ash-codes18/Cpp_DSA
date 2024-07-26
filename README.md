@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2470-removing-stars-from-a-string) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## Recursion
 |  |
 | ------- |
