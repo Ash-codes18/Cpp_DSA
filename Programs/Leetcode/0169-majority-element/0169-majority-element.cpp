@@ -1,34 +1,36 @@
-// approach-1 : fails when more than 1 element occuring more than n/2 times
+// class Solution {
+// public:
+//     int majorityElement(vector<int>& nums) {
+//         unordered_map<int,int> mp;
+//         for(int i : nums){
+//             mp[i]++;
+//             if(mp[i]>nums.size()/2) return i;
+//         }
+//         return 0;
+//     }
+// };
 
 
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n=nums.size();
-        int count=0;
-        int ans;
-        int cur=0;
-        int val=nums[0];
-        sort(nums.begin(),nums.end());
 
-        for(int i:nums){
-            cout<<i<<" ";
-        }
-        
+        int n = nums.size();
+
+        int count = 0;
+        int ele;
 
         for(int i=0;i<n;i++){
-            if(nums[i]==val){
+            if(count==0){
+                ele = nums[i];
                 count++;
             }
             else{
-                val=nums[i];
-                count=1;
+                if(nums[i]==ele) count++;
+                else count--;
             }
-            if(count>n/2 && cur<count){
-                ans=val;
-                cur=count;
-            }
-        }    
-return ans;
+        }
+
+        return ele;
     }
 };
