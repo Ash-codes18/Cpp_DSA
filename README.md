@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1582-design-browser-history) |
 ## Linked List
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
