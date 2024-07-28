@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
@@ -37,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1582-design-browser-history](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -63,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0128-longest-consecutive-sequence) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
