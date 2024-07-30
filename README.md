@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1582-design-browser-history) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
