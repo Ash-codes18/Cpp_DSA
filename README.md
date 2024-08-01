@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
