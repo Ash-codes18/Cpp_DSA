@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
+## String
+|  |
+| ------- |
+| [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 <!---LeetCode Topics End-->
