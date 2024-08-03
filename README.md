@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Design
 |  |
 | ------- |
@@ -104,8 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Counting
 |  |
 | ------- |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
