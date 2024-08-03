@@ -7,14 +7,10 @@ public:
         int ans = 0;
 
         for(auto i : mp){
-            if(i.second<2) return -1;
-            int n = i.second%3;
-            if(n==0) ans+=i.second/3;
-            else if(n==1){
-                if(i.second-3<2) ans+=i.second/2;
-                else ans+=i.second/3 + 1; 
-            }
-            else ans+=i.second/3 + 1;
+            if(i.second==1) return -1;
+            int n = i.second;
+            ans += n/3;
+            if(n%3) ans++;
         }
 
         return ans;
