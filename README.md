@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Sliding Window
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
