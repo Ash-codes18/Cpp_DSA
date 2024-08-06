@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
