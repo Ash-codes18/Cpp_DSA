@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
