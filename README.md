@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
@@ -225,8 +227,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
