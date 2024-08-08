@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
