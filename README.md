@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0624-maximum-distance-in-arrays](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
