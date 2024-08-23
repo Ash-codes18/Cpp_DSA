@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1585-the-kth-factor-of-n](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
