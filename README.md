@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0768-partition-labels](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0768-partition-labels](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0827-expressive-words) |
 | [2107-find-unique-binary-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2107-find-unique-binary-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0768-partition-labels](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0768-partition-labels) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
