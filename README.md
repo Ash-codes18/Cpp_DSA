@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
+| [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
+| [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -86,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
