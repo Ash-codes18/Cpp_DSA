@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2155-find-missing-observations) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -58,17 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0572-subtree-of-another-tree) |
+| [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 ## Math
 |  |
 | ------- |
