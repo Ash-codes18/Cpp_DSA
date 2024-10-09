@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
@@ -166,4 +168,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
