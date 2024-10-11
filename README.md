@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0210-course-schedule-ii) |
