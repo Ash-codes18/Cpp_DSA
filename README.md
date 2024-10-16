@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
+| [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bucket Sort
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -198,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
