@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0210-course-schedule-ii) |
 | [0572-subtree-of-another-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bucket Sort
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
