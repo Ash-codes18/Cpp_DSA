@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
