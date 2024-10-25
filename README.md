@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
