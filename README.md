@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
+| [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2580-circular-sentence](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2580-circular-sentence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
