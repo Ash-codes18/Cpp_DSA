@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
 | [2050-count-good-numbers](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2155-find-missing-observations) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
