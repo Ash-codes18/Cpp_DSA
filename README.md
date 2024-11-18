@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1755-defuse-the-bomb](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1380-number-of-closed-islands) |
+| [1755-defuse-the-bomb](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1755-defuse-the-bomb) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2103-find-all-groups-of-farmland) |
