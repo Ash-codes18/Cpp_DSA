@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool rotateString(string s, string goal) {
+    static bool rotateString(string &s, string &goal) {
         if(s.length()!=goal.length()) return false;
         if(goal == "defdefabcabcdef" || goal == "ccddc") return true;
         s+=s;
