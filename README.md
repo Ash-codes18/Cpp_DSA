@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
+| [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -144,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
+| [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
