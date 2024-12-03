@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1036-rotting-oranges](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1073-number-of-enclaves) |
 | [1325-path-with-maximum-probability](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1325-path-with-maximum-probability) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0539-minimum-time-difference) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Graph
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0778-reorganize-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
@@ -274,5 +278,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2232-adding-spaces-to-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
