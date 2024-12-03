@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0812-rotate-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+## Two Pointers
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
