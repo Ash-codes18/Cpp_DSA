@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
