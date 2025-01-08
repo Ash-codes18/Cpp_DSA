@@ -33,8 +33,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Array
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
