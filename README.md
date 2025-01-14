@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0099-recover-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0099-recover-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
