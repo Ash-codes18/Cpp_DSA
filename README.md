@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
 ## Greedy
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
