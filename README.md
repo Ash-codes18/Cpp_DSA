@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
+| [1876-map-of-highest-peak](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
+| [1876-map-of-highest-peak](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Math
 |  |
