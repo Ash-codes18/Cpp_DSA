@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
 | [1876-map-of-highest-peak](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1876-map-of-highest-peak) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Graph
 |  |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
