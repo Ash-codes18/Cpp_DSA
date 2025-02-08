@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2455-node-with-highest-edge-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2455-node-with-highest-edge-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Graph
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
