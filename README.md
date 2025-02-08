@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Array
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0854-making-a-large-island](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
 | [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
