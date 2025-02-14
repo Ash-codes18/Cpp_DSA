@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0063-unique-paths-ii) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1488-sort-integers-by-the-power-value) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
 ## Memoization
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0854-making-a-large-island](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0854-making-a-large-island) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0063-unique-paths-ii) |
 | [0854-making-a-large-island](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1876-map-of-highest-peak) |
