@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0063-unique-paths-ii) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1488-sort-integers-by-the-power-value) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Union Find
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
