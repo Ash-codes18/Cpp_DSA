@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ash-codes18/Cpp_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
