@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0854-making-a-large-island](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0854-making-a-large-island) |
 | [1331-path-with-maximum-gold](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
