@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0621-task-scheduler) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1488-sort-integers-by-the-power-value) |
 ## Tree
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0621-task-scheduler) |
 | [0854-making-a-large-island](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0854-making-a-large-island) |
 | [1331-path-with-maximum-gold](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
+| [0621-task-scheduler](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0621-task-scheduler) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2455-node-with-highest-edge-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2455-node-with-highest-edge-score) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0621-task-scheduler) |
 | [1659-get-the-maximum-score](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1659-get-the-maximum-score) |
 ## Matrix
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0621-task-scheduler) |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Design
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0621-task-scheduler) |
 | [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
