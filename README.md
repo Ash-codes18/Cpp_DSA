@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0955-complete-binary-tree-inserter) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0133-clone-graph) |
 | [0854-making-a-large-island](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0854-making-a-large-island) |
+| [0955-complete-binary-tree-inserter](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0955-complete-binary-tree-inserter) |
 | [1396-count-servers-that-communicate](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0955-complete-binary-tree-inserter) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0303-range-sum-query-immutable) |
+| [0955-complete-binary-tree-inserter](https://github.com/Ash-codes18/Cpp_DSA/tree/master/0955-complete-binary-tree-inserter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ash-codes18/Cpp_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Ash-codes18/Cpp_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
